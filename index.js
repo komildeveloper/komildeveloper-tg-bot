@@ -122,6 +122,6 @@ bot.on('message', msg => {
 	}
 
 	if (msg.text === 'Web Sayt 🌐') {
-		bot.sendMessage(id, 'Web Sayt 🌐: komildeveloper.vercel.app.com')
+		bot.sendMessage(id, 'Web Sayt 🌐: komildeveloper.vercel.app')
 	}
 })
