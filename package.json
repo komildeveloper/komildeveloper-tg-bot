@@ -1,0 +1,21 @@
+{
+  "name": "tg-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "node-telegram-bot-api": "^0.57.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
